@@ -1,0 +1,49 @@
+
+body{
+  margin : 0;
+  text-align : center;
+
+}
+h1{
+  color : #66BFBF;
+  font-size : 70px;
+  margin: 20px auto 0 auto;
+  font-family: Brush Script MT, cursive;
+}
+h2{
+  color : #66BFBF;
+ font-family: cursive;
+}
+
+h3{
+  color :  #66BFBF;
+  font-size: 30px;
+    font-family: Brush Script MT,cursive;
+}
+
+.top-container{
+  background-color: #E4f9f5;
+  position : relative;
+  padding-top : 150px;
+
+}
+.middle-container{
+
+}
+.bottom-container{
+}
+.bottom-cloud{
+  position : absolute;
+  left : 300px;
+}
+.top-cloud{
+  position : absolute;
+  right : 300px;
+  top : 50px;
+}
+.bottom-sonam{
+  width: 20%;
+  margin: 20px auto 20px auto;
+  border-radius: 500%;
+  left: 300px;
+}
